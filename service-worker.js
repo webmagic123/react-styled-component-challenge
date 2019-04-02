@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/webmagic123/react-styled-component-challenge/precache-manifest.8c0e9683ebef3e881f6c02ba00aed015.js"
+  "/react-styled-component-challenge/precache-manifest.71b1e113314f52699453f2b68dec6eeb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/webmagic123/react-styled-component-challenge/index.html", {
+workbox.routing.registerNavigationRoute("/react-styled-component-challenge/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

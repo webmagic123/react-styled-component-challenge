@@ -1,13 +1,13 @@
 {
-  "main.css": "/webmagic123/react-styled-component-challenge/static/css/main.7f5e2d7d.chunk.css",
-  "main.js": "/webmagic123/react-styled-component-challenge/static/js/main.0199430b.chunk.js",
-  "main.js.map": "/webmagic123/react-styled-component-challenge/static/js/main.0199430b.chunk.js.map",
-  "runtime~main.js": "/webmagic123/react-styled-component-challenge/static/js/runtime~main.dbabbaed.js",
-  "runtime~main.js.map": "/webmagic123/react-styled-component-challenge/static/js/runtime~main.dbabbaed.js.map",
-  "static/js/2.3a4421ec.chunk.js": "/webmagic123/react-styled-component-challenge/static/js/2.3a4421ec.chunk.js",
-  "static/js/2.3a4421ec.chunk.js.map": "/webmagic123/react-styled-component-challenge/static/js/2.3a4421ec.chunk.js.map",
-  "index.html": "/webmagic123/react-styled-component-challenge/index.html",
-  "precache-manifest.8c0e9683ebef3e881f6c02ba00aed015.js": "/webmagic123/react-styled-component-challenge/precache-manifest.8c0e9683ebef3e881f6c02ba00aed015.js",
-  "service-worker.js": "/webmagic123/react-styled-component-challenge/service-worker.js",
-  "static/css/main.7f5e2d7d.chunk.css.map": "/webmagic123/react-styled-component-challenge/static/css/main.7f5e2d7d.chunk.css.map"
+  "main.css": "/react-styled-component-challenge/static/css/main.7f5e2d7d.chunk.css",
+  "main.js": "/react-styled-component-challenge/static/js/main.ebc05634.chunk.js",
+  "main.js.map": "/react-styled-component-challenge/static/js/main.ebc05634.chunk.js.map",
+  "runtime~main.js": "/react-styled-component-challenge/static/js/runtime~main.5ed72a01.js",
+  "runtime~main.js.map": "/react-styled-component-challenge/static/js/runtime~main.5ed72a01.js.map",
+  "static/js/2.c96e6715.chunk.js": "/react-styled-component-challenge/static/js/2.c96e6715.chunk.js",
+  "static/js/2.c96e6715.chunk.js.map": "/react-styled-component-challenge/static/js/2.c96e6715.chunk.js.map",
+  "index.html": "/react-styled-component-challenge/index.html",
+  "precache-manifest.71b1e113314f52699453f2b68dec6eeb.js": "/react-styled-component-challenge/precache-manifest.71b1e113314f52699453f2b68dec6eeb.js",
+  "service-worker.js": "/react-styled-component-challenge/service-worker.js",
+  "static/css/main.7f5e2d7d.chunk.css.map": "/react-styled-component-challenge/static/css/main.7f5e2d7d.chunk.css.map"
 }
